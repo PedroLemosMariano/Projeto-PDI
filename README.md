@@ -65,14 +65,17 @@ Permitir a edição e análise de imagens através de uma interface gráfica int
    cd editor-pdi
 
 2. Crie um ambiente virtual (opcional):
+   ```bash
     python -m venv venv
     source venv/bin/activate  # Linux/macOS
     venv\Scripts\activate     # Windows
 
-3. Instale as dependências:
+4. Instale as dependências:
+   ```bash
     pip install opencv-python numpy matplotlib pillow
 
-4. Execute o sistema:
+6. Execute o sistema:
+   ```bash
     python main.py
 
 👩‍🏫 Desenvolvido por: Pedro Lemos Mariano
