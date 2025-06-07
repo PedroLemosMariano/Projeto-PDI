@@ -70,7 +70,7 @@ Permitir a edição e análise de imagens através de uma interface gráfica int
     venv\Scripts\activate     # Windows
 
 3. Instale as dependências:
-    pip install -r requirements.txt
+    pip install opencv-python numpy matplotlib pillow
 
 4. Execute o sistema:
     python main.py
