@@ -56,7 +56,10 @@ Permitir a edição e análise de imagens através de uma interface gráfica int
 - Pillow
 
 ---
+## 🎥 Video Explicativo
+   https://youtu.be/aL1bfsXlq0g
 
+---
 ## ▶️ Como executar
 
 1. Clone o repositório:
